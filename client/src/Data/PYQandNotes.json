@@ -1,0 +1,82 @@
+[
+    {
+        "pdfid": 12345694631594,
+        "name": "Physics 2013",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "CBSE",
+        "type": "Notes",
+        "subject": "Physics",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 1234569485594,
+        "name": "Physics 2015",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "ISC",
+        "type": "PYQ",
+        "subject": "Physics",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 123495931594,
+        "name": "Physics 2011",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "UK",
+        "type": "Notes",
+        "subject": "Physics",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 1239694651594,
+        "name": "Physics 2010",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "CBSE",
+        "subject": "Physics",
+        "type": "Notes",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 4168897,
+        "name": "Chemistry 2015",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "UK",
+        "subject": "Chemistry",
+        "type": "Notes",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 97641649617,
+        "name": "Maths 2013",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "CBSE",
+        "subject": "Maths",
+        "type": "PYQ",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 564136543,
+        "name": "Chemistry 2011",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "UK",
+        "type": "PYQ",
+        "subject": "Chemistry",
+        "class": 11,
+        "size": "1.5 MB"
+    },
+    {
+        "pdfid": 1239694651594,
+        "name": "Maths 2010",
+        "url": "https://ncert.nic.in/textbook/pdf/leph1ps.pdf",
+        "board": "CBSE",
+        "subject": "Maths",
+        "type": "PYQ",
+        "class": 11,
+        "size": "1.5 MB"
+    }
+]
